@@ -81,11 +81,12 @@ button{
     color: hsl(0, 0%, 59%);
 }
 #err_msg{
+    display: none;
     position: absolute;
     left: 35.4%;
     top: 38%;
     font-size: 0.8rem;
-    color: hsl(354, 100%, 66%);
+    color: #ff5263;
     font-style: italic;
 }
 @media screen and (max-width: 900px) {
