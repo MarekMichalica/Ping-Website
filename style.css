@@ -111,4 +111,10 @@ button{
         width: 380px;
         top: 54%;
     }
+    #btn{
+        margin-top: 1.7em;
+    }
+    #err_msg{
+        margin-left: -2.7em;
+    }
 }
